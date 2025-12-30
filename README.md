@@ -30,10 +30,10 @@ This system is a three-tier architecture real-time motion generation system, con
 
 The pretrained checkpoints for the motion generator, decoder, and tracking policy are available for download:
 
-**[Download Checkpoints (Google Drive)](https://drive.google.com/file/d/1Sagkl1N4ernbvWpnxE68XNW9xEWEOvMe/view?usp=drive_link)**
+**[Download Checkpoints (Google Drive)](https://drive.google.com/drive/folders/1sh1IQdIjvnxx2s2did0vvZVP9DuCpoGE?usp=sharing)**
 
 The download includes:
-- `motion_generator.pt` - Motion generator model weights
+- `motion-generator` - Motion generator model weights
 - `decoder.pt` - Decoder model weights  
 - `policy.pt` - Tracking policy model weights
 
