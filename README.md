@@ -1,3 +1,20 @@
+<div align="center">
+<h1 style="border-bottom: none; margin-bottom: 0px ">MultiAct: From Multimodal Input to Action Streaming for Humanoid Robots</h1>
+
+[**Nan Jiang**](https://jnnan.github.io/)<sup>&ast;</sup> · [**Zimo He**](https://mileret.github.io/)<sup>&ast;</sup> · [**Wanhe Yu**](https://pku.ai/author/wanhe-yu/) · [**Lexi Pang**](https://tongclass.ac.cn/author/lexi-pang/) · [**Yunhao Li**](https://pku.ai/author/yunhao-li/) · [**Hongjie Li**](https://awfuact.github.io/) · [**Jieming Cui**](https://jiemingcui.github.io/) · [**Yuhan Li**](https://github.com/jnnan/uniact-code/) · [**Yizhou Wang**](https://cfcs.pku.edu.cn/wangyizhou/)  · [**Siyuan Huag**](https://siyuanhuang.com/)<sup>&dagger;</sup> · [**Yixin Zhu**](https://yzhu.io/)<sup>&dagger;</sup>
+<br>
+
+
+&dagger;Corresponding Author&emsp;&ast;Equal Contribution
+
+<a href=""><img src='https://img.shields.io/badge/arXiv-UniAct-red' alt='Paper PDF'></a>
+<a href='https://jnnan.github.io/uniact'><img src='https://img.shields.io/badge/Project_Page-UniAct-green' alt='Project Page'></a>
+<!-- <a href='https://huggingface.co/spaces/depth-anything/Depth-Anything-3'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Demo-blue'></a> -->
+<a href=''><img src='https://img.shields.io/badge/Video-UniAct-yellow' alt='Video'></a>
+<!-- <a href='https://huggingface.co/datasets/depth-anything/data'><img src='https://img.shields.io/badge/Benchmark-xxx-yellow' alt='Data'></a> -->
+
+</div>
+
 ![alt text](https://github.com/jnnan/uniact-code/blob/main/images/framework.png?raw=true)
 
 # Server-Proxy-Client Motion Generation System
