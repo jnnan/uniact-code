@@ -1,7 +1,7 @@
 <div align="center">
 <h1 style="border-bottom: none; margin-bottom: 0px ">UniAct: Unified Motion Generation and Action Streaming for Humanoid Robots</h1>
 
-[**Nan Jiang**](https://jnnan.github.io/)<sup>&ast;</sup> · [**Zimo He**](https://mileret.github.io/)<sup>&ast;</sup> · [**Wanhe Yu**](https://pku.ai/author/wanhe-yu/) · [**Lexi Pang**](https://tongclass.ac.cn/author/lexi-pang/) · [**Yunhao Li**](https://pku.ai/author/yunhao-li/) · [**Hongjie Li**](https://awfuact.github.io/) · [**Jieming Cui**](https://jiemingcui.github.io/) · [**Yuhan Li**](https://github.com/jnnan/uniact-code/) · [**Yizhou Wang**](https://cfcs.pku.edu.cn/wangyizhou/) · [**Yixin Zhu**](https://yzhu.io/)<sup>&dagger;</sup> · [**Siyuan Huag**](https://siyuanhuang.com/)<sup>&dagger;</sup> 
+[**Nan Jiang**](https://jnnan.github.io/)<sup>&ast;</sup> · [**Zimo He**](https://mileret.github.io/)<sup>&ast;</sup> · [**Wanhe Yu**](https://pku.ai/author/wanhe-yu/) · [**Lexi Pang**](https://tongclass.ac.cn/author/lexi-pang/) · [**Yunhao Li**](https://pku.ai/author/yunhao-li/) · [**Hongjie Li**](https://awfuact.github.io/) · [**Jieming Cui**](https://jiemingcui.github.io/) · [**Yuhan Li**](https://github.com/jnnan/uniact-code/) · [**Yizhou Wang**](https://cfcs.pku.edu.cn/wangyizhou/) · [**Siyuan Huag**](https://siyuanhuang.com/)<sup>&dagger;</sup> · [**Yixin Zhu**](https://yzhu.io/)<sup>&dagger;</sup>
 <br>
 &ast;Equal Contribution&emsp;&dagger;Corresponding Author
 
