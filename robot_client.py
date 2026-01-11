@@ -1011,6 +1011,8 @@ class DeployNode():
                 self.obs_projected_gravity,  # Projected gravity [3]
                 action  # Previous step action [29]
             ], dim=-1).float()  # Total: 29+29+3+29+29+3+29 = 151 dimensions
+
+            self.env.obs_tensor = cur_obs.to(self.device)
         else:
             pass  # Case when not using reference motion
 
