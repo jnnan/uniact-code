@@ -367,3 +367,14 @@ python server.py
 # 3. Start Robot Client in a new terminal window
 python robot_client.py
 ```
+
+## Citation
+
+```
+@article{jiang2025uniact,
+   title={UniAct: Unified Motion Generation and Action Streaming for Humanoid Robots}, 
+   author={Nan Jiang and Zimo He and Wanhe Yu and Lexi Pang and Yunhao Li and Hongjie Li and Jieming Cui and Yuhan Li and Yizhou Wang and Yixin Zhu and Siyuan Huang},
+   journal={arXiv preprint arXiv:2512.24321},
+   year={2025}
+}
+```
